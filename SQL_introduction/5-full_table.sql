@@ -1,3 +1,5 @@
+-- 5-full_table.sql
+
 -- Prints the full description for table 'first_table'
 
-SHOW CREATE table first_table(id INT(11));
+SHOW CREATE table first_table;
