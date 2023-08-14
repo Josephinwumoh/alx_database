@@ -1,6 +1,6 @@
 -- 9-full_creation.sql
 
--- Second_table description
+-- Create a table second_table
 
 -- id = INT, name = VARCHAR(256), score INT
 
