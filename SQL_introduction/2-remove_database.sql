@@ -1,3 +1,4 @@
--- Delete a database named 'hbtn_0c_0'
+-- 2-remove_database.sql
 
-DROP SCHEMA;
+-- Drop the database if it exists
+DROP DATABASE IF EXISTS hbtn_0c_0;
