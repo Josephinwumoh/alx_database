@@ -15,11 +15,10 @@ score INT
 
 -- Create maximum of 4 records
 
-INSERT INTO second_table
-
-(id, name, score) 
+INSERT INTO second_table (id, name, score)
 
 VALUES
+
 (1, "John", 10),
 (2, "Alex", 3),
 (3, "BOb", 14),
