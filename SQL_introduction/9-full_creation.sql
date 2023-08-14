@@ -1,7 +1,5 @@
 -- 9-full_creation.sql
 
--- Create a table second_table in the database 'hbtn_0c_0'
-
 -- Second_table description
 
 -- id = INT, name = VARCHAR(256), score INT
