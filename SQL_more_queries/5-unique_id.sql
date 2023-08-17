@@ -1,0 +1,7 @@
+-- Create the table Unique_id on MySQL server.
+
+CREATE TABLE IF NOT EXISTS unique_id 
+    (id INT NOT NULL DEFAULT 1, UNIQUE (ID),
+    name VARCHAR(256)
+    
+);
